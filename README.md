@@ -1,3 +1,23 @@
+Konopka Visuals — Portfolio Website
+Project Overview
+This is a personal portfolio website for Adam Konopka, a freelance video editor and content creator. The site is designed to attract YouTube creators and businesses looking for professional video editing services.
+
+Target Audience
+
+YouTube content creators 
+Small businesses needing promotional video content
+Anyone looking for a freelance video editor
+
+Content Strategy
+The site answers one key question for every visitor Can this editor help my channel grow?
+It does this by showing:
+
+A showreel so visitors see the quality immediately
+Before & after examples so they understand the transformation
+Real client reviews from channels with real subscriber counts
+Clear pricing so there's no guessing
+A simple contact form so reaching out is easy
+
 PART 1: CONTENT (Answer ALL questions)
 
 1. What is your full name as you want it displayed professionally? Adam Konopka
@@ -17,7 +37,7 @@ PART 1: CONTENT (Answer ALL questions)
 --------------------------------------------------
 PART 2: DESIGN (Answer ALL questions)
 
-1. What overall style will best represent you (minimalist, creative, professional, etc.)? Dark, bold, and cinematic — matches the video editing industry
+1. What overall style will best represent you (minimalist, creative, professional, etc.)? Dark, bold, and cinematic  matches the video editing industry
 2. What color scheme will you use and why? Black background with red accents — professional, high contrast, and energetic
 3. What fonts will you use for headings and body text? Montserrat (headings) and Open Sans (body)
 4. How will your design reflect your personality or field?  Dark theme and red highlights reflect the cinematic/media world
@@ -38,5 +58,78 @@ PART 3: INTERACTIVITY (Answer ALL questions)
 3. What JavaScript features will you implement? Smooth scrolling, active nav highlighting, scroll fade-in animations, FAQ accordion, form submission feedback
 4. How will users receive feedback from interactions? Buttons change on hover, FAQ opens/closes with animation, form shows a success message after sending
 5. How does interactivity improve the user experience? Keeps users engaged, makes navigation easy, and guides visitors toward contacting me
+
+
+Visual Design Wireframe
++--------------------------------------------------+
+|  LOGO          NAV LINKS              X/TWITTER  |  
++--------------------------------------------------+
+|                                                  |
+|          VIDEO EDITOR & CONTENT CREATOR          |
+|               KONOPKA VISUALS                    |
+|      Professional video editing for YouTube      |
+|           [ WATCH SHOWREEL ]                     |
+|                                                  |
++--------------------------------------------------+
+|  Showreel                                        |
+|  [ YouTube Embed — Full Width ]                  |
++--------------------------------------------------+
+|  Before & After                                  |
+|  [ Before Video ]     [ After Video ]            |
++--------------------------------------------------+
+|  Services                                        |
+|  [ 01 ] [ 02 ] [ 03 ]                            |
+|  [ 04 ] [ 05 ] [ 06 ]                            |
++--------------------------------------------------+
+|  Pricing                                         |
+|  [ Basic ]  [ STANDARD* ]  [ Premium ]           |
+|  $197/vid    $397/vid       $697/vid              |
++--------------------------------------------------+
+|  What Creators Say                               |
+|  [ Review ] [ Review ] [ Review ]                |
+|  [ Review ] [ Review ] [ Review ]                |
++--------------------------------------------------+
+|  Trusted By                                      |
+|  [Logo][Logo][Logo][Logo][Logo][Logo][Logo]       |
++--------------------------------------------------+
+|  About Adam Konopka                              |
+|  [ Bio text ]         [ Stats grid ]             |
++--------------------------------------------------+
+|  Common Questions                                |
+|  + Question 1  
+|  + Question 2 
+  + Question 3
++--------------------------------------------------+
+|  Work With Me                                    |
+|  [ Contact Form ]     [ Sidebar info ]           |
++--------------------------------------------------+
+|  KONOPKA.                  |  
++--------------------------------------------------+
+
+Technical Overview
+
+Languages HTML, CSS, JavaScript 
+Fonts Montserrat, Open Sans
+LayoutCSS Grid + Flexbox
+Responsiveness Media queries at 768px and 1024px
+Form  HTML form  connect to Forms for email delivery
+Hosting  GitHub Pages
+File structure  index.html, style.css, script.js
+
+Timeline / Project Milestones
+
+day 1   answer design questions, sketch wireframe
+day 2 Build the HTML
+day 3 Write the CSS
+day 4 Add Javascript
+day 5 fix the bugs and make clean visuals
+day 6 uploading to github
+
+
+
+
+
+
+
 
 
