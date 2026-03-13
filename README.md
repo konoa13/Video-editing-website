@@ -1,4 +1,4 @@
-Konopka Visuals — Portfolio Website
+Konopka Visuals — Portfolio Website https://konoa13.github.io/Video-editing-website/
 Project Overview
 This is a personal portfolio website for Adam Konopka, a freelance video editor and content creator. The site is designed to attract YouTube creators and businesses looking for professional video editing services.
 
